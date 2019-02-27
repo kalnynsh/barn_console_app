@@ -1,0 +1,16 @@
+{
+    "name": "kalnynsh/test_task",
+    "description": "'Testing task'",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kalnynsh Dmitry",
+            "email": "kda869@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Barn\\": "src/" }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
